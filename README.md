@@ -3,7 +3,7 @@ Book Name: Monolith to Microservices Evolutionary Patterns to Transform Your Mon
 
 Chapter 2: Planning a Migration 
 
-Publicly Accessible Google Drive Link: https://drive.google.com/file/d/1Zc85mvIg5TwJp31rqA7KWUI37GMT2DHH/view
+Publicly Accessible Google Drive Link for the Concept Map: https://drive.google.com/file/d/1Zc85mvIg5TwJp31rqA7KWUI37GMT2DHH/view
 
 Group Members:
 
